@@ -1,0 +1,1 @@
+# AI-Tool-to-Read-and-Analyze-Legal-Contracts-Automatically-
